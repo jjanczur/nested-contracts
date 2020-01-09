@@ -13,6 +13,8 @@ In this project, I deploy a contract MomContract which within its constructor de
 ## Deployment
 
 ```bash
+npm install -g truffle
+npm install -g ganache-cli
 npm install
 ganache-cli # Start a blockchian
 truffle compile

@@ -1,4 +1,4 @@
-# Creating smart contracts using another smart contracts in solidity
+# Creating a contract with a smart contract
 
 I was struggling with testing in truffle smart contracts that are deploying other smart contracts.
 
